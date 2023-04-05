@@ -24,7 +24,7 @@ This is a sample C program that communicates with a slave device through a seria
   - Option 6 sends a frame with an invalid CRC.
   - Option 7 calculates the response time of the slave device.
   - Option 0 exits the program.
-4. If Option 1 or Option 2 is selected, the program will prompt for the port number and the number of ports to read.
+4. If Option 1 is selected, the program will prompt for the port number and the number of ports to read.
 5. The program will display the values of the registers.
 
 ## Credits
