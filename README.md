@@ -4,13 +4,13 @@ This is a sample C program that communicates with a slave device through a seria
 
 ##Requirements
 
-Serial library (serial.h)
-CRC16 library (crc16.h)
-projeto_1.h header file
-C compiler
-Installation
-Download the required libraries and header file and place them in the same directory as the main.c file.
-Compile the main.c file using a C compiler.
+*Serial library (serial.h)
+*CRC16 library (crc16.h)
+*projeto_1.h header file
+*C compiler
+*Installation
+*Download the required libraries and header file and place them in the same directory as the main.c file.
+*Compile the main.c file using a C compiler.
 
 ##Usage
 
