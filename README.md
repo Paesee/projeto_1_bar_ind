@@ -1,3 +1,5 @@
+README
+
 This is a sample C program that communicates with a slave device through a serial port. The program reads analog input registers from the slave device and displays the values.
 
 Requirements
